@@ -39,5 +39,5 @@ ID	COUNTRY	URL	WISHLIST
 38	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/2I7TIOTT851M5
 39	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/16OTCM0KXZXSL
 40	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/1FRQ2BTMJLX4D
-41  AA  TEST  TEST
+41	AA	TEST	TEST
 42	UU	https://www.amazon.UU	https://www.amazon.fr/hz/wishlist/genericItemsPage/1FRQ2BTMJLX4D
