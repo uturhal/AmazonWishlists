@@ -47,4 +47,4 @@ ID	COUNTRY	URL	WISHLIST	LOG_CHANNEL
 46	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/2SQNCE7FKVL0Y	-1001280154091
 47	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/14DVZ9VNVQS9Q	-1001280154091
 48	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/3HVEND6QZNB7Y	-1001280154091
-49	TR	https://www.amazon.com.tr https://www.amazon.com.tr/hz/wishlist/genericItemsPage/2J2P7PRJI2DH3	-1001280154091
+49	FR	https://www.amazon.com.tr	https://www.amazon.com.tr/hz/wishlist/genericItemsPage/2J2P7PRJI2DH3	-1001196888144
